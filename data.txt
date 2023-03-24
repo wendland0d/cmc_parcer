@@ -1,0 +1,300 @@
+BTC : Bitcoin
+ETH : Ethereum
+USDT : Tether
+BNB : BNB
+USDC : USD Coin
+XRP : XRP
+ADA : Cardano
+DOGE : Dogecoin
+MATIC : Polygon
+BUSD : Binance USD
+SOL : Solana
+DOT : Polkadot
+LTC : Litecoin
+SHIB : Shiba Inu
+TRX : TRON
+AVAX : Avalanche
+DAI : Dai
+WBTC : Wrapped Bitcoin
+LINK : Chainlink
+LEO : UNUS SED LEO
+ATOM : Cosmos
+XMR : Monero
+ETC : Ethereum Classic
+UNI : Uniswap
+TON : Toncoin
+OKB : OKB
+BCH : Bitcoin Cash
+XLM : Stellar
+FIL : Filecoin
+APT : Aptos
+TUSD : TrueUSD
+LDO : Lido DAO
+HBAR : Hedera
+CRO : Cronos
+NEAR : NEAR Protocol
+VET : VeChain
+ARB : Arbitrum
+ALGO : Algorand
+ICP : Internet Computer
+QNT : Quant
+APE : ApeCoin
+STX : Stacks
+FTM : Fantom
+EOS : EOS
+GRT : The Graph
+MANA : Decentraland
+BIT : BitDAO
+EGLD : MultiversX
+XTZ : Tezos
+AAVE : Aave
+FLOW : Flow
+THETA : Theta Network
+IMX : Immutable
+AXS : Axie Infinity
+SAND : The Sandbox
+CFX : Conflux
+NEO : Neo
+USDP : Pax Dollar
+KCS : KuCoin Token
+CHZ : Chiliz
+RPL : Rocket Pool
+MINA : Mina
+LUNC : Terra Classic
+USDD : USDD
+OP : Optimism
+BSV : Bitcoin SV
+KLAY : Klaytn
+CAKE : PancakeSwap
+DASH : Dash
+CRV : Curve DAO Token
+MKR : Maker
+SNX : Synthetix
+GMX : GMX
+GUSD : Gemini Dollar
+HT : Huobi Token
+ZEC : Zcash
+XEC : eCash
+AGIX : SingularityNET
+BTT : BitTorrent(New)
+MIOTA : IOTA
+GT : GateToken
+FXS : Frax Share
+PAXG : PAX Gold
+XDC : XDC Network
+TWT : Trust Wallet Token
+LRC : Loopring
+RUNE : THORChain
+MASK : Mask Network
+RNDR : Render Token
+ZIL : Zilliqa
+1INCH : 1inch Network
+FEI : Fei USD
+NEXO : Nexo
+FLR : Flare
+KAVA : Kava
+OSMO : Osmosis
+ENJ : Enjin Coin
+CVX : Convex Finance
+DYDX : dYdX
+CSPR : Casper
+ETHW : EthereumPoW
+BAT : Basic Attention Token
+T : Threshold
+XEM : NEM
+SSV : ssv.network
+QTUM : Qtum
+WOO : WOO Network
+ROSE : Oasis Network
+ANKR : Ankr
+RVN : Ravencoin
+BAL : Balancer
+TFUEL : Theta Fuel
+FLOKI : FLOKI
+MAGIC : MAGIC
+DCR : Decred
+HOT : Holo
+LUNA : Terra
+COMP : Compound
+YFI : yearn.finance
+INJ : Injective
+FET : Fetch.ai
+CELO : Celo
+OMG : OMG Network
+KSM : Kusama
+BTG : Bitcoin Gold
+GNO : Gnosis
+MOB : MobileCoin
+GALA : Gala
+BONE : Bone ShibaSwap
+AR : Arweave
+LN : LINK
+ONE : Harmony
+ASTR : Astar
+ENS : Ethereum Name Service
+AUDIO : Audius
+XCH : Chia
+WAVES : Waves
+GLM : Golem
+IOTX : IoTeX
+GMT : STEPN
+GLMR : Moonbeam
+SUSHI : SushiSwap
+JST : JUST
+JASMY : JasmyCoin
+BLUR : Blur
+DAO : DAO Maker
+CKB : Nervos Network
+KDA : Kadena
+OCEAN : Ocean Protocol
+SC : Siacoin
+BAND : Band Protocol
+ICX : ICON
+USTC : TerraClassicUSD
+LQTY : Liquity
+ONT : Ontology
+XYM : Symbol
+IOST : IOST
+ZRX : 0x
+MX : MX TOKEN
+BRISE : Bitgert
+ELON : Dogelon Mars
+LPT : Livepeer
+BICO : Biconomy
+HIVE : Hive
+CELR : Celer Network
+HNT : Helium
+CHSB : SwissBorg
+ELF : aelf
+RSR : Reserve Rights
+FLUX : Flux
+BNX : BinaryX
+RLC : iExec RLC
+SKL : SKALE
+POLY : Polymath
+BORA : BORA
+KEEP : Keep Network
+AMP : Amp
+ACH : Alchemy Pay
+SFP : SafePal
+WAXP : WAX
+ID : SPACE ID
+DGB : DigiByte
+EVER : Everscale
+ILV : Illuvium
+SXP : Solar
+STORJ : Storj
+CORE : Core
+MULTI : Multichain
+UMA : UMA
+ZEN : Horizen
+LSK : Lisk
+JOE : JOE
+SYS : Syscoin
+GTC : Gitcoin
+BTRST : Braintrust
+RIF : RSK Infrastructure Framework
+API3 : API3
+TRIBE : Tribe
+SYN : Synapse
+AXL : Axelar
+HEX : HEX
+stETH : Lido Staked ETH
+WTRX : Wrapped TRON
+TMG : T-mac DAO
+BTCB : Bitcoin BEP2
+WBNB : Wrapped BNB
+HBTC : Huobi BTC
+FRAX : Frax
+TNC : TNC Coin
+BTTOLD : BitTorrent
+BGB : Bitget Token
+XAUT : Tether Gold
+XRD : Radix
+FTT : FTX Token
+DFI : DeFiChain
+NXM : NXM
+WEMIX : WEMIX
+USDJ : USDJ
+KAS : Kaspa
+LUSD : Liquity USD
+BabyDoge : Baby Doge Coin
+ASTRAFER : Astrafer
+GNS : Gains Network
+BDX : Beldex
+EDGT : Edgecoin
+RON : Ronin
+MV : GensoKishi Metaverse
+WEVER : Wrapped Everscale
+ALI : Artificial Liquid Intelligence
+SURE : inSure DeFi
+EURS : STASIS EURO
+LYXe : LUKSO
+TEL : Telcoin
+TOMI : tomiNet
+PUNDIX : Pundi X (New)
+METIS : MetisDAO
+TRAC : OriginTrail
+PLA : PlayDapp
+HFT : Hashflow
+VVS : VVS Finance
+RBN : Ribbon Finance
+XNO : Nano
+KNC : Kyber Network Crystal v2
+MED : MediBloc
+SLP : Smooth Love Potion
+PEOPLE : ConstitutionDAO
+CHR : Chromia
+MBX : MARBLEX
+RENBTC : renBTC
+NFT : APENFT
+CFG : Centrifuge
+MC : Merit Circle
+DENT : Dent
+SCRT : Secret
+STG : Stargate Finance
+SNT : Status
+NMR : Numeraire
+XCN : Onyxcoin
+vUSDC : Venus USDC
+CVC : Civic
+COCOS : Cocos-BCX
+EWT : Energy Web Token
+DEXE : DeXe
+REN : Ren
+CTSI : Cartesi
+RBTC : Rootstock Smart Bitcoin
+DERO : Dero
+LOCUS : Locus Chain
+POLYX : Polymesh
+PYR : Vulcan Forged PYR
+REQ : Request
+ONG : Ontology Gas
+ANT : Aragon
+NYM : NYM
+REP : Augur
+USDX : USDX [Kava]
+GAL : Galxe
+HOOK : Hooked Protocol
+MVL : MVL
+RAD : Radicle
+VGX : Voyager Token
+DKA : dKargo
+BNT : Bancor
+HUM : Humanscape
+STPT : STP
+MNW : Morpheus.Network
+ORBS : Orbs
+PROM : Prom
+ERG : Ergo
+MBOX : MOBOX
+ABBC : ABBC Coin
+ARDR : Ardor
+STEEM : Steem
+VBG : Vibing
+POWR : Powerledger
+NU : NuCypher
+COTI : COTI
+WILD : Wilder World
+DUSK : Dusk Network
+TRU : TrueFi
