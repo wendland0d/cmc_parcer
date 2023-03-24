@@ -16,8 +16,7 @@ try:
     jsoned = response.json()
     with open('data.txt', 'w') as f:
         for i in jsoned['data']:
-            _ = f"{i['symbol']} : {i['name']}\n"
-            f.write(_)
+            print(f"{i['symbol']} : {i['name']}")
 
 except requests.exceptions.ConnectionError as err:
     print(err)
