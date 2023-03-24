@@ -1,5 +1,4 @@
 import requests
-import json
 
 API_KEY: str = '3a8b70e9-8122-4ab3-9590-49aa09a3a5ad'
 START: int = 1
